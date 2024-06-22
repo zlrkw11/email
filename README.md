@@ -1,8 +1,10 @@
-# React + Vite
+# Email Sender Made Using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+src/components/EmailSender.jsx
 
-Currently, two official plugins are available:
+1. Register an account at [EmailJs.com](https://www.emailjs.com/)
+2. Fill in the props needed: 
+   ![image](https://github.com/zlrkw11/email/assets/64724157/0688b2e1-0c63-4dba-bf77-4caa96bff1ef)
+3. Edit the message in EmailJs website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Made by zkrkw11
