@@ -1,4 +1,4 @@
-function App() {
+export default function EmailSender() {
   const sendEmail = (e) => {
     e.preventDefault();
   };
@@ -11,5 +11,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
