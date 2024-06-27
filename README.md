@@ -7,4 +7,4 @@ src/components/EmailSender.jsx
    ![image](https://github.com/zlrkw11/email/assets/64724157/0688b2e1-0c63-4dba-bf77-4caa96bff1ef)
 3. Edit the message in EmailJs website
 
-Made by zkrkw11
+Made by zlrkw11
